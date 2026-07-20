@@ -1,1 +1,2 @@
-<P1>ekarin yodamanoen<P1>
+<h1>ekarin yodamnoen<h1>
+<p>My Favorite Picture</p>
