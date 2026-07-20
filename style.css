@@ -1,0 +1,11 @@
+/* ตกแต่งส่วนหน้าจอ */
+body {
+    font-family: Arial, sans-serif;
+    padding: 50px;
+    background-color: #f8f9fa;
+}
+
+/* กำหนดสีข้อความให้เป็นสีน้ำเงิน */
+.blue-text {
+    color: #0056b3; /* รหัสสีน้ำเงิน */
+}
