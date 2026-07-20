@@ -1,1 +1,1 @@
-<P1>ekarin<P2>
+<P1>ekarin yodamanoen<P2>
